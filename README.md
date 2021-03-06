@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//johnnymarlon/)](https://www.linkedin.com/in/matheus-alves-dos-santos/)
 
 <h3 align="justify">
-Meu objetivo é trabalhar em uma empresa que construa soluções tecnológicas de qualidade que verdadeiramente agregue valor e supere as expectativas dos clientes
+Meu objetivo é trabalhar construindo soluções tecnológicas de qualidade que verdadeiramente agregue valor e supere as expectativas!!!
 </h3>
 
 **PESSOAL**
