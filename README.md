@@ -34,6 +34,7 @@ Meu objetivo é trabalhar construindo soluções tecnológicas de qualidade que 
 ## GitHub Status:
 
 <a href="https://github.com/johnnyofoco/johnnyofoco">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnyofoco)](https://github.com/johnnyofoco/github-readme-stats)
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=johnnyofoco&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
 </a> 
 <br>
