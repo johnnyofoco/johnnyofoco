@@ -5,20 +5,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//johnnymarlon/)](https://www.linkedin.com/in/matheus-alves-dos-santos/)
 
 <h3 align="justify">
-Meu objetivo é trabalhar construindo soluções tecnológicas de qualidade que verdadeiramente agregue valor e supere as expectativas!!!
+Busco me capacitar para trabalhar construindo soluções tecnológicas de qualidade que verdadeiramente agregue valor e supere as expectativas.
 </h3>
 
 **PESSOAL**
 
 - :heart: Eu sou o Johnny Marlon, tenho 31 anos e sou entusiasta em tudo que envolve tecnologia computacional. 
 
-- :book: Formado em tecnologia de recursos humanos e estou cursando o último semestre   de Análise e Desenvolvimento de Sistemas
+- :book: Formado em tecnologia de gestão em recursos Humanos(2010) e tecnologia em análise e desenvolvimento de sistemas(2021).
 
 **PROFISSIONAL**
 
 - :computer: Possuo 7 anos de experiência com implantação de sistema ERP, e aproximadamente 8 anos como analista de folha de pagamento.
 
-- :telescope: Atualmente busco uma oportunidade para atuar como desenvolvedor web front-end.
+- :telescope: Atualmente estou aperfeiçoando minhas habilidades técnicas como Desenvolvedor Web Front-End.
 
 
 ## Técnologias
