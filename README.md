@@ -10,7 +10,7 @@ Busco me capacitar para trabalhar construindo soluções tecnológicas de qualid
 
 **PESSOAL**
 
-- :heart: Eu sou o Johnny Marlon, tenho 31 anos e sou entusiasta em tudo que envolve tecnologia computacional. 
+- :heart: Eu me chamo Johnny Marlon, tenho 32 anos e sou entusiasta em tudo que envolve tecnologia computacional. 
 
 - :book: Formado em tecnologia de gestão em recursos Humanos(2010) e tecnologia em análise e desenvolvimento de sistemas(2021).
 
@@ -18,7 +18,7 @@ Busco me capacitar para trabalhar construindo soluções tecnológicas de qualid
 
 - :computer: Possuo 7 anos de experiência com implantação de sistema ERP, e aproximadamente 8 anos como analista de folha de pagamento.
 
-- :telescope: Atualmente estou aperfeiçoando minhas habilidades técnicas como Desenvolvedor Web Front-End.
+- :telescope: Atualmente trabalho como analista de sistemas e estou aperfeiçoando minhas habilidades técnicas como Desenvolvedor Web Front-End.
 
 
 ## Técnologias
