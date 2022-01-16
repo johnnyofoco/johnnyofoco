@@ -2,7 +2,7 @@
   Johnny Marlon de Paula {*Johnny o Foco*}
 </h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com//johnnymarlon/)](https://www.linkedin.com/in/matheus-alves-dos-santos/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/johnnymarlon/)](https://www.linkedin.com/in/johnnymarlon/)
 
 <h3 align="justify">
 Busco me capacitar para trabalhar construindo soluções tecnológicas de qualidade que verdadeiramente agregue valor e supere as expectativas.
