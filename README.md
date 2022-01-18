@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/johnnymarlon/)](https://www.linkedin.com/in/johnnymarlon/)
 
 <h3 align="justify">
-Busco me capacitar para trabalhar construindo soluções tecnológicas de qualidade que verdadeiramente agregue valor e supere as expectativas.
+Me capacito dia após dia, para construir soluções tecnológicas de qualidade que verdadeiramente agregue valor e supere as expectativas dos clientes e usuários.
 </h3>
 
 **PESSOAL**
@@ -23,7 +23,7 @@ Busco me capacitar para trabalhar construindo soluções tecnológicas de qualid
 
 ## Tecnologias
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0076C6?style=flat-square&logo=postgreSQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=saSS&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0076C6?style=flat-square&logo=postgreSQL&logoColor=white)
 
 
 ## :bulb: Estudando
@@ -34,11 +34,10 @@ Busco me capacitar para trabalhar construindo soluções tecnológicas de qualid
 ## GitHub Status:
 
 <a href="https://github.com/johnnyofoco/johnnyofoco">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnyofoco&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnyofoco&show_icons=true&include_all_commits=true&theme=dark" alt="Johnny o Foco github stats" />
 </a> 
 <br>
 <br>
 <a href="https://github.com/johnnyofoco/johnnyofoco">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyofoco&layout=compact&theme=dark"/>
 </a>
