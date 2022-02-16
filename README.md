@@ -16,9 +16,9 @@ Me capacito dia após dia, para construir soluções tecnológicas de qualidade 
 
 **PROFISSIONAL**
 
-- :computer: Possuo 7 anos de experiência com implantação de sistema ERP, e aproximadamente 8 anos como analista de folha de pagamento.
+- :computer: Possuo 7 anos de experiência como consultor de implantação de sistema ERP, e aproximadamente 8 anos como analista de folha de pagamento.
 
-- :telescope: Atualmente trabalho como analista de sistemas e estou aperfeiçoando minhas habilidades técnicas como Desenvolvedor Web Front-End.
+- :telescope: Atualmente trabalho como analista de sistemas e estou aperfeiçoando minhas habilidades técnicas como Desenvolvedor Web Front-End FullStack javaScript.
 
 
 ## Tecnologias
