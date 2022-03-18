@@ -12,13 +12,13 @@ Me capacito dia após dia, para construir soluções tecnológicas de qualidade 
 
 - :heart: Eu me chamo Johnny Marlon, tenho 32 anos e sou entusiasta em tudo que envolve tecnologia computacional. 
 
-- :book: Formado em tecnologia de gestão em recursos Humanos(2010) e tecnologia em análise e desenvolvimento de sistemas(2021).
+- :book: Sou formado em tecnologia de gestão em recursos Humanos(2010) e tecnologia em análise e desenvolvimento de sistemas(2021).
 
 **PROFISSIONAL**
 
-- :computer: Possuo 7 anos de experiência como consultor de implantação de sistema ERP, e aproximadamente 8 anos como analista de folha de pagamento.
+- :computer: Em meu atual trabalho sou Analista de Sistemas com foco em sustentação de sistemas eCommerce, possuo 7 anos de experiência como consultor de implantação de sistema ERP, e aproximadamente 8 anos como analista de folha de pagamento.
 
-- :telescope: Atualmente trabalho como analista de sistemas e estou aperfeiçoando minhas habilidades técnicas como Desenvolvedor Web Front-End FullStack javaScript.
+- :telescope: Em paralelo ao meu trabalho como analista de sistemas diariamente tenho aperfeiçoado minhas habilidades técnicas como Desenvolvedor Web FullStack javaScript.
 
 
 ## Tecnologias
