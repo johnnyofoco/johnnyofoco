@@ -16,7 +16,7 @@ Me capacito dia após dia, para construir soluções tecnológicas de qualidade 
 
 **PROFISSIONAL**
 
-- :computer: Trabalho sou Analista de Sistemas com foco em sustentação de sistemas web voltandos para eCommerce, possuo 7 anos de experiência como consultor de implantação de sistema ERP, e 8 anos como analista de folha de pagamento.
+- :computer: Trabalho atual => Analista de Sistemas com foco em sustentação de sistemas web voltandos para eCommerce, possuo 7 anos de experiência como consultor de implantação de sistema ERP, e 8 anos como analista de folha de pagamento.
 
 - :telescope: Diariamente tenho aperfeiçoado minhas habilidades técnicas como Desenvolvedor Web FullStack (NodeJS / ReactJS).
 
